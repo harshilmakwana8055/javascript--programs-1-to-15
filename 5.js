@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="EX.">JavaScript in style display none elements.</p>
+
+<button type="button" onclick="document.getElementById('EX.').style.display='none'">Click Me!</button>
+
+</body>
+</html> 
